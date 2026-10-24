@@ -9,7 +9,7 @@ This folder reproduces exactly the experiment described in Section V of the pape
   same mean/SD figures quoted in the paper.
 - `results.json` — full per-seed, per-window numbers (15 seeds).
 - `summary.json` — mean/SD summary used directly in the paper text.
-- `fig1.png` / `fig1.pdf` — Fig. 1 as published in the paper.
+
 
 ## Reproducing
     pip install numpy scikit-learn matplotlib

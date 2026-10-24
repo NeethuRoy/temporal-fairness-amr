@@ -17,8 +17,4 @@ This folder reproduces exactly the experiment described in Section V of the pape
 
 Random seeds 0–14 are fixed in the script, so results are exactly reproducible.
 
-## Before camera-ready submission
-Upload this folder to an anonymized host (e.g. https://anonymous.4open.science
-or an anonymized OSF project) and replace the placeholder sentence in
-Section V.A ("will be deposited at an anonymized public repository...")
-with the resulting link.
+
